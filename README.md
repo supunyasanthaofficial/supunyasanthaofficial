@@ -13,7 +13,7 @@
 - :earth_asia: I'm living now in **Kandy**
 - :sweat_smile: I'm a newbie in coding, know React and JavaScript language. Now I'm focus on learning Mobile App  Development.
 - :monocle_face: I'm interested in coding, sleeping, and watching films and tv-serious
-- :sunglasses: My quote is ***"Dream , Believe , Receive"*** 
+- :sunglasses: My quote is ***"I do not need to be understand.I need only to be obeyed."*** 
 - :ok_hand: Fun fact: Call me as Panda
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
