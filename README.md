@@ -12,7 +12,7 @@
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kandy**
 - :sweat_smile: I'm a newbie in coding, know React and JavaScript language. Now I'm focus on learning Mobile App  Development.
-- :monocle_face: I'm interested in coding, sleeping, and watching films and tv-serious
+- :monocle_face: I'm interested in coding, sleeping, and watching films, anime and tv-serious
 - :sunglasses: My quote is ***"I do not need to be understand.I need only to be obeyed."*** 
 - :ok_hand: Fun fact: Call me as Panda
 
@@ -60,4 +60,4 @@
 
 
 
-Last Edited on: 31/07/2025
+Last Edited on: 17/03/2026
