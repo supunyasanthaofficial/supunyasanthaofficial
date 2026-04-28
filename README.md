@@ -8,7 +8,7 @@
 
 
 - :credit_card: My full name is **Supun Yasantha** 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Supun+Yasantha+%3C3;SY+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwzNm83cmw2bHNrOWlpbTg2a3hqamk3ZGxsYndydjFidmhpNTExNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nzsWN8iSDwSlhCDokc/giphy.gif" width="40">
 - :school: I'm currently 2rd year student at **Asia e University **
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kandy**
