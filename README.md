@@ -5,7 +5,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+## <img src="[https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmwzNm83cmw2bHNrOWlpbTg2a3hqamk3ZGxsYndydjFidmhpNTExNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nzsWN8iSDwSlhCDokc/giphy.gif)" width="50px"></img> About Me
 
 
 - :credit_card: My full name is **Supun Yasantha** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
