@@ -11,7 +11,7 @@
 - :school: I'm currently 2rd year student at **Asia e University **
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kandy**
-- :sweat_smile: I'm a newbie in coding, know React and JavaScript language. Now I'm focus on learning Mobile App  Development.
+- :sweat_smile: I'm a newbie in coding, know React and JavaScript language. Now I'm focus on learning Web, Mobile, Windows App  Development.
 - :monocle_face: I'm interested in coding, sleeping, and watching films, anime and tv-serious
 - :sunglasses: My quote is ***"I do not need to be understand.I need only to be obeyed."*** 
 - :ok_hand: Fun fact: Call me as Panda
@@ -65,7 +65,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2025 Supun Yasantha
+  &copy; 2026 Supun Yasantha
 </div>
 
 ------
@@ -75,4 +75,4 @@
 
 
 
-Last Edited on: 25/04/2026
+Last Edited on: 13/06/2026
