@@ -1,332 +1,77 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38C2FF&height=220&section=header&text=Supun%20Yasantha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=32&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=750&height=70&lines=Heyyy!+I'm+Supun+Yasantha+%3C3;You+can+call+me+Panda+%F0%9F%90%BC;Software+Engineering+Student+%F0%9F%92%BB;Web+%26+Mobile+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=supunyasanthaofficial&label=PROFILE+VIEWS&color=38C2FF&style=for-the-badge" alt="Profile Views"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Supun+Yasantha+%3C3;SY+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
----
 
-## 👋 About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-<div align="center">
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+- :credit_card: My full name is **Supun Yasantha** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :school: I'm currently 2rd year student at **Asia e University **
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living now in **Kandy**
+- :sweat_smile: I'm a newbie in coding, know React and JavaScript language. Now I'm focus on learning Web, Mobile, Windows App  Development.
+- :monocle_face: I'm interested in coding, sleeping, and watching films, anime and tv-serious
+- :sunglasses: My quote is ***"I do not need to be understand.I need only to be obeyed."*** 
+- :ok_hand: Fun fact: Call me as Panda
 
-</div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+<P>
+    <img src="https://img.shields.io/badge/React Native%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
+     <!-- <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D04A37" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />   
+  <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 
-* 👨‍💻 **Supun Yasantha**
-* 🎓 2nd Year **Software Engineering Student**
-* 🌍 Based in **Kandy, Sri Lanka**
-* 💻 Interested in **Web & Mobile App Development**
-* ⚛️ Learning **React & React Native**
-* 📱 Building with **Flutter**
-* 🔥 Exploring **Firebase, Supabase & Appwrite**
-* 🚀 Working towards becoming a **Full Stack Developer**
-* 🎬 Love **films, anime & TV series**
-* 🐼 **Fun fact: Call me Panda**
+</P>
 
-<br clear="right"/>
-
----
-
-## 🚀 What I'm Working On
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="250">
-
-### 🌐 Web Development
-
-React<br>
-Next.js<br>
-JavaScript<br>
-TypeScript
-
-</td>
-
-<td align="center" width="250">
-
-### 📱 Mobile Development
-
-React Native<br>
-Expo<br>
-Flutter<br>
-Dart
-
-</td>
-
-<td align="center" width="250">
-
-### ☁️ Backend
-
-Firebase<br>
-Supabase<br>
-Appwrite<br>
-Node.js
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🛠️ Languages & Tools
-
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
+  <a href="supunyasantha.official@gmail.com" >
+    <img align="center" alt="SupunYasantha-SY | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,dart&perline=6"/>
+  <a href="https://www.linkedin.com/in/supun-yasantha-b999a72b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img align="center" alt="SupunYasantha-SY | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
 
-<br><br>
+  <a href="https://www.facebook.com/supun.yasantha.5" target="_blank">
+      <img align="center" alt="SupunYasantha-SY | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,flutter,expo,nodejs&perline=6"/>
+  <a href="https://www.instagram.com/_supun_yasantha_/?utm_source=qr&igsh=MTVranQ5NGx4MXMxMg%3D%3D#" target="_blank">
+    <img align="center" alt="SupunYasantha-SY | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
 
-<br><br>
+  <a href="https://github.com/supunyasanthaofficial" target="_blank">
+    <img align="center" alt="SupunYasantha-SY | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite,mysql,mongodb,git&perline=6"/>
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2026 Supun Yasantha
+</div>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=github,gitlab,vscode,androidstudio,figma,postman&perline=6"/>
-
+------
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif" width="350"/>
 </p>
 
----
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<a href="https://github.com/supunyasanthaofficial">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=supunyasanthaofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-</a>
-
-<a href="https://github.com/supunyasanthaofficial">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunyasanthaofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</a>
-
-</div>
-
-GitHub Readme Stats supports the `username`, `show_icons`, `theme`, `include_all_commits`, and language-card parameters used above.
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<a href="https://github.com/supunyasanthaofficial">
-
-<img src="https://streak-stats.demolab.com/?user=supunyasanthaofficial&theme=tokyonight&hide_border=true" width="75%"/>
-
-</a>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/supunyasanthaofficial">
-
-<img src="https://github-profile-trophy.vercel.app/?username=supunyasanthaofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%"/>
-
-</a>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/supunyasanthaofficial">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supunyasanthaofficial&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</a>
-
-</div>
-
----
-
-# 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/supunyasanthaofficial/supunyasanthaofficial/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
-> The snake image is generated by the `Platane/snk@v3` GitHub Action and needs the workflow below before this section can display. The official action supports generating SVG/GIF contribution animations.
-
----
-
-# 💻 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/supunyasanthaofficial">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=supunyasanthaofficial&repo=supunyasanthaofficial&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🚀 Check out my repositories
-
-<a href="https://github.com/supunyasanthaofficial?tab=repositories">
-
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-38C2FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
-> I removed the old `music-player` and `portfolio` cards because those links only work when repositories with exactly those names actually exist.
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal                             | Progress       |
-| -------------------------------- | -------------- |
-| 🌐 Improve Web Development       | 🔥 Learning    |
-| 📱 Build Better Mobile Apps      | 🚀 Building    |
-| ⚛️ Master React / React Native   | 📚 Learning    |
-| ☁️ Improve Backend Skills        | 📚 Learning    |
-| 🧠 Become a Full Stack Developer | 🎯 In Progress |
-| 🌎 Contribute to Open Source     | 🚀 Goal        |
-
-</div>
-
----
-
-# ⚡ Current Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:supunyasantha.official@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/supun-yasantha-b999a72b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/supun.yasantha.5">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_supun_yasantha_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/supunyasanthaofficial">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🐼 Panda Zone
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=38C2FF&center=true&vCenter=true&width=650&lines=Code+%E2%86%92+Debug+%E2%86%92+Coffee+%E2%86%92+Repeat+%F0%9F%98%82;Build+%F0%9F%9A%80+Learn+%F0%9F%93%9A+Grow+%F0%9F%94%A5;Never+Stop+Learning+%F0%9F%90%BC"/>
-
-</div>
-
----
-
-## 💬 Favorite Quote
-
-<div align="center">
-
-### 🖤 *"I do not need to be understood. I need only to be obeyed."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280"/>
-
-<br><br>
-
-### ❤️ Thanks for visiting my profile!
-
-### 🐼 Have a nice day!
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38C2FF&height=130&section=footer" width="100%"/>
-
-**© 2026 Supun Yasantha**
-
-<br>
-
-<img src="https://img.shields.io/badge/Last%20Edited-28%20August%202026-38C2FF?style=for-the-badge"/>
-
-</div>
+Last Edited on: 24/08/2026
