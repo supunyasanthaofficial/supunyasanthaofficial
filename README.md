@@ -1,291 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38C2FF&height=200&section=header&text=Supun%20Yasantha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00F5FF,50:8A2BE2,75:FF00E4,100:0D1117&height=220&section=header&text=SUPUN%20YASANTHA&fontSize=46&fontColor=00F5FF&fontAlignY=38&animation=fadeIn&desc=%3C%20SY%20is%20me%20%2F%2F%20booting%20up%20profile...%20%3E&descAlignY=58&descSize=17&descColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=32&center=true&vCenter=true&width=700&height=60&lines=Heyyy!+I'm+Supun+Yasantha+%3C3;You+can+call+me+Panda+%F0%9F%90%BC;Software+Engineering+Student+%F0%9F%92%BB;Mobile+%26+Web+Developer+%F0%9F%9A%80;Welcome+to+my+GitHub+profile!" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00F5FF&background=0D1117FF&center=true&vCenter=true&width=650&height=60&lines=%3E+booting+dev.exe...;%3E+loading+React+%26+JavaScript+modules;%3E+compiling+Web+%2F+Mobile+%2F+Windows+apps;%3E+status%3A+ONLINE+%F0%9F%90%BC" alt="Typing SVG" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=supunyasanthaofficial&label=Profile%20Views&color=38C2FF&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px"> About Me
-
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-* 👋 My full name is **Supun Yasantha**
-* 🎓 I'm a **2nd year Software Engineering student**
-* 💻 Passionate about **Web & Mobile App Development**
-* 🚀 Currently learning and building with **React, React Native & Flutter**
-* ⚡ Interested in **Full Stack Development**
-* 🔥 Exploring **Firebase, Supabase & Appwrite**
-* 📱 Love creating useful and modern applications
-* 🎬 I enjoy **films, anime and TV series**
-* 😴 Sleeping is also one of my special skills 😂
-* 🐼 **Fun fact: Call me Panda**
-
-<br clear="right"/>
-
----
-
-## 🚀 What I'm Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,reactnative,typescript,flutter,nextjs,nodejs,firebase,supabase,appwrite&perline=5" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BUILD-LEARNING-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MODE-PANDA-FF00E4?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
+## ⚡ About Me
 
-```text
-╔════════════════════════════════════════════╗
-║                                            ║
-║     💻 Web Development                     ║
-║     📱 Mobile App Development              ║
-║     🔥 Firebase / Supabase                 ║
-║     ⚡ React & React Native                ║
-║     🚀 Full Stack Development              ║
-║                                            ║
-╚════════════════════════════════════════════╝
+<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/code.gif" width="380" align="right"/>
+
+```yaml
+name: Supun Yasantha
+alias: Panda
+location: Kandy, Sri Lanka
+education: 2nd Year @ Asia e University
+major: Software Engineering
+status: newbie -> leveling up in React & JavaScript
+focus: [Web Development, Mobile Development, Windows App Development]
+interests: [coding, sleeping, films, anime, tv-series]
+quote: "I do not need to be understood. I need only to be obeyed."
 ```
 
+<br clear="both"/>
+
+## 🛰️ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supunyasanthaofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E4&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=supunyasanthaofficial&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00E4&currStreakLabel=00F5FF" width="49%" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunyasanthaofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" width="50%" />
+</div>
 
-# 🛠️ Languages & Tools
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supunyasanthaofficial&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FF00E4" width="90%"/>
+</div>
 
-### 👨‍💻 Programming & Development
+## 🏆 Trophy Cabinet
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=supunyasanthaofficial&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
+
+## 🧬 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nextjs,flutter,androidstudio,firebase,supabase,vercel,vscode,git,github,gitlab&theme=dark" />
+</div>
+
+## 🐍 Live Contribution Feed
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+> 💡 Wire this up for real by adding the [github-contribution-grid-snake](https://github.com/Platane/snk) Action to this repo — it regenerates the snake from your actual contribution graph every day.
+
+## 📡 Connect
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,dart" />
-
+  <a href="mailto:supunyasantha.official@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="https://www.linkedin.com/in/supun-yasantha-b999a72b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="https://www.facebook.com/supun.yasantha.5" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-FF00E4?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="https://www.instagram.com/_supun_yasantha_/?utm_source=qr&igsh=MTVranQ5NGx4MXMxMg%3D%3D#" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-00F5FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="https://github.com/supunyasanthaofficial" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  </a>
 </p>
 
-### ⚛️ Frameworks & Libraries
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=supunyasanthaofficial&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge&labelColor=0D1117" />
+</div>
+
+<div align="center">
+
+`> end of transmission_` 😉
+
+© 2026 Supun Yasantha
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF00E4,50:8A2BE2,75:00F5FF,100:0D1117&height=150&section=footer"/>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,flutter,expo,nodejs" />
-
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="330"/>
 </p>
 
-### ☁️ Backend & Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite,mongodb,mysql" />
-
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,figma,vercel,postman" />
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=supunyasanthaofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunyasanthaofficial&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=supunyasanthaofficial&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=supunyasanthaofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2" width="90%"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supunyasanthaofficial&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/supunyasanthaofficial/supunyasanthaofficial/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/supunyasanthaofficial">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=supunyasanthaofficial&repo=music-player&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/supunyasanthaofficial">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=supunyasanthaofficial&repo=portfolio&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-```text
-🚀 Become a better Full Stack Developer
-📱 Build production-ready mobile applications
-⚛️ Improve React & React Native skills
-🔥 Master Firebase & Supabase
-💻 Contribute to Open Source
-🌎 Build projects that people actually use
-📚 Never stop learning
-```
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:supunyasantha.official@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/supun-yasantha-b999a72b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/supun.yasantha.5">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_supun_yasantha_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/supunyasanthaofficial">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🎨 A Little More Panda Energy 🐼
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Code+%E2%86%92+Coffee+%E2%86%92+Debug+%E2%86%92+Repeat+%F0%9F%98%82;Dream+Big+%F0%9F%9A%80;Build+Something+Awesome+%F0%9F%94%A5;Keep+Learning+%F0%9F%93%9A;Stay+Curious+%F0%9F%90%BC" />
-
-</div>
-
----
-
-## 💬 My Quote
-
-<div align="center">
-
-### `"I do not need to be understood. I need only to be obeyed."`
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
-
-### ❤️ Thanks for visiting my profile!
-
-### 🐼 Have a wonderful day!
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38C2FF&height=120&section=footer"/>
-
-**© 2026 Supun Yasantha**
-
-</div>
-
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Last%20Edited-28%20August%202026-38C2FF?style=for-the-badge"/>
-
-</p>
-
+<div align="center">Last Edited on: 28/08/2026</div>
 
