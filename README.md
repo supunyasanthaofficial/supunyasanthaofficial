@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38C2FF,100:8A2BE2&height=200&section=header&text=Hey!%20I'm%20Supun%20Yasantha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SY%20is%20me!!!%20~%20Welcome%20to%20my%20profile&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&weight=600&size=28&duration=3000&pause=800&color=38C2FF&center=true&vCenter=true&width=600&lines=Building+with+React+%26+JavaScript;Exploring+Web%2C+Mobile+%26+Windows+Apps;Coding+%7C+Sleeping+%7C+Anime+%7C+Films;Call+me+Panda+%F0%9F%90%BC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&weight=600&size=28&duration=3000&pause=800&color=38C2FF&center=true&vCenter=true&width=600&lines=Building+with+React+%26+JavaScript;Exploring+Web%2C+Mobile+%26+Windows+Apps;Coding+%7C+Sleeping+%7C+Anime+%7C+Films;Call+me+Panda+%F0%9F%90%BC" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="380" align="right"/>
+<img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/code.gif" width="380" align="right"/>
 
 - 🪪 My full name is **Supun Yasantha**
 - 🎓 I'm currently a **2nd year student** at **Asia e University**
@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=supunyasanthaofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunyasanthaofficial&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=supunyasanthaofficial&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
@@ -109,7 +109,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:38C2FF&height=120&section=footer"/>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif" width="350"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
 </p>
 
 Last Edited on: 28/08/2026
